@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A separate repository for DOS Mode (WacOS) for the WacOS operating system project, containing both the 4 bit and 8 bit LIBraries.
